@@ -1,4 +1,4 @@
-# Financial Accounting — Everything You Need, Nothing You Don't
+# Financial Accounting
 
 Reference for Booth pre-MBA modules 1–8, then the bridge into three-statement modeling (FSM).
 
