@@ -135,6 +135,8 @@ Left side: resources. Right side: who has a claim on them. Creditors first, owne
 - **Credit** = where value came from
 - **Debit** = where value went
 
+*** The above is super important !!! Where the value came from (similar to giving credit to someone) ***
+
 Debits always equal credits. Always.
 
 **Normal balances:**
